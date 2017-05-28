@@ -16,4 +16,4 @@ router.put('/:id', helperJwt.verifyTokenAdminAndUser, controllerUser.update)
 
 
 
-module.exports = router
+module.exports = router;
