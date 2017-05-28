@@ -8,4 +8,7 @@
 **28 Mei 2017, Tangerang**
 ***This Contains:***
 - [ ] CRUD
-- [ ] express
+- [ ] Express
+- [ ] JWT
+- [ ] bcrypt
+- [ ] passport
